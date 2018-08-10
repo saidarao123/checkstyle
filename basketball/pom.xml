@@ -22,8 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-    <profiles>
-  <profile>
+   <profiles>
+ <profile>
     <id>metrics</id>
     <build>
       <plugins>
