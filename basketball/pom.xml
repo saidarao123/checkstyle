@@ -21,7 +21,8 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </depende<profiles>
+  </dependencies>
+    <profiles>
   <profile>
     <id>metrics</id>
     <build>
@@ -35,7 +36,7 @@
       </plugins>
     </build>
   </profile>
-</profiles>ncies>
+</profiles>
   
   
   
